@@ -20,7 +20,7 @@ function App() {
 			</ul>
 			<p>Status: {config.status}</p>
 
-			<h2>Flaschards</h2>
+			<h2>Flashcards</h2>
 			<ul>
 				{flashcards.map(flashcard => {
 					return (
