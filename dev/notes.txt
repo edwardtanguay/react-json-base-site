@@ -1,0 +1,3 @@
+- x clean up and personalize
+	- x clean up CSS
+- 
