@@ -18,7 +18,7 @@ function App() {
 			const data = await response.json();
 			setEmployees(data);
 		})();
-	});
+	}, []);
 
 	return (
 		<div className="App">
@@ -32,7 +32,7 @@ function App() {
 				})}
 			</ul>
 			<p>Status: {config.status}</p>
-
+			<img src="./images/screenshot.png" alt="screenshot" />
 			<h2>Flashcards</h2>
 			<div className="flashcards">
 				{flashcards.map(flashcard => {
