@@ -1,3 +1,5 @@
 - x clean up and personalize
 	- x clean up CSS
-- 
+- x show JavaScript in JSX
+- .. copy JSON file to project
+- display JSON on page 
