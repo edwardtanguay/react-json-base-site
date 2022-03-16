@@ -6,3 +6,15 @@ body {
 }
 .App {
 }
+
+.App h2 {
+	color: rgb(238, 238, 166);
+}
+
+.App .flashcards {
+	margin: 0 0 0 20px;
+}
+
+.App .flashcards .flashcard {
+	margin: 0 0 20px 0;
+}

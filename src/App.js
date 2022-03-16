@@ -21,13 +21,16 @@ function App() {
 			<p>Status: {config.status}</p>
 
 			<h2>Flashcards</h2>
-			<ul>
+			<div className="flashcards">
 				{flashcards.map(flashcard => {
 					return (
-						<li>{flashcard.front}</li>
+						 <div className="flashcard">
+							<div className="front">{flashcard.front}</div>
+							<div className="back">{flashcard.back}</div>
+						 </div>
 					)
 				})}
-			</ul>
+			</div>
 			<h2>Users</h2>
 			<ul>
 				{users.map(user => {
