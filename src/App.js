@@ -1,4 +1,4 @@
-import './App.css';
+import './App.scss';
 import flashcards from './data/flashcards.json';
 import config from './data/config.json';
 import users from './data/users.json';
