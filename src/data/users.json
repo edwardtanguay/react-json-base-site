@@ -1,0 +1,253 @@
+[
+	{
+		"_id": "ObjectId(\"61ba59fa6d0e3cb08bf3c9e7\")",
+		"login": "jk",
+		"firstName": "John",
+		"lastName": "Kreefeld",
+		"email": "jk@skdjf.com",
+		"hash": "$2b$10$H5/75ocpgTqvNlyta.NkpuX/DfmDtSPxC488muHlJAEGej534Q/lO",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-15T21:11:22.550Z",
+		"updatedAt": "2021-12-15T21:13:55.727Z"
+	},
+	{
+		"_id": "ObjectId(\"61b9269b29fb2b1e05583173\")",
+		"login": "op",
+		"firstName": "Oscar",
+		"lastName": "Pedoli",
+		"email": "op@gmail.com",
+		"hash": "$2b$10$m3ScJyxMrsIZy7mWWWrEz.vc3sLdC5XxIXxC4BGy87l.myPprF0ky",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-14T23:19:55.187Z",
+		"updatedAt": "2021-12-14T23:20:35.244Z"
+	},
+	{
+		"_id": "ObjectId(\"61b0a111dd2b9792057b873b\")",
+		"login": "as",
+		"firstName": "Angie",
+		"lastName": "Singer",
+		"email": "as@jsdkfj.com",
+		"hash": "$2b$10$eyddbUhVYc5.pyVNDGTiMuq5/S77YAkO6XMpKmjEFINhoHIt0FPH6",
+		"accessGroups": "loggedInUsers,notYetApprovedUsers",
+		"createdAt": "2021-12-08T12:12:01.375Z",
+		"updatedAt": "2021-12-08T12:12:01.375Z"
+	},
+	{
+		"_id": "ObjectId(\"61b0029bdd2b9792057b86a4\")",
+		"login": "iu",
+		"firstName": "Ilney",
+		"lastName": "Uber",
+		"email": "iu@ksdj.com",
+		"hash": "$2b$10$7e/5ooNtnYiUfm2BsMdqieovzSLW16ZxO9O6QdCVLcver.hL2iohW",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-08T00:55:55.039Z",
+		"updatedAt": "2021-12-08T00:56:02.772Z"
+	},
+	{
+		"_id": "ObjectId(\"61af7a759808751a89071517\")",
+		"login": "ks",
+		"firstName": "Kevin",
+		"lastName": "Schmidt",
+		"email": "ks@skdfj.com",
+		"hash": "$2b$10$xMwR3OGvfbARpZVOSw1WheoSmkWFNjJAcxCXfz2JLdUirvm3F/1f6",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T15:15:01.357Z",
+		"updatedAt": "2021-12-07T15:15:54.244Z"
+	},
+	{
+		"_id": "ObjectId(\"61af7a43d7d4d5f9a423d0b7\")",
+		"login": "jj",
+		"firstName": "James",
+		"lastName": "JustSignedUpton",
+		"email": "jj@gmail.com",
+		"hash": "$2b$10$3sIjLHFh1izNE.Bj1lQ8V.UJ/MysNvGDr56r/4veRp.nmOuhG4sse",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T15:14:11.560Z",
+		"updatedAt": "2021-12-08T07:05:36.628Z"
+	},
+	{
+		"_id": "ObjectId(\"61af77d8fed991bbbc9308b6\")",
+		"login": "ii",
+		"firstName": "Iston",
+		"lastName": "Iskdjf",
+		"email": "ii@gmail.com",
+		"hash": "$2b$10$mliNPV5O594ttbNDipaHpejSaCK2SCYjjRfY03KugIEK31pzoZO2O",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T15:03:52.519Z",
+		"updatedAt": "2021-12-15T08:29:54.905Z"
+	},
+	{
+		"_id": "ObjectId(\"61af71f3fed991bbbc9308a8\")",
+		"login": "po",
+		"firstName": "Paul",
+		"lastName": "Oppenheimer",
+		"email": "po@gmail.com",
+		"hash": "$2b$10$xW.0TH0i64zKyKuAPwpPPOsZGAzzL98YImaQKMO7BMmP6WrPCynq2",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T14:38:43.972Z",
+		"updatedAt": "2021-12-07T14:40:03.609Z"
+	},
+	{
+		"_id": "ObjectId(\"61af6450fed991bbbc93089a\")",
+		"login": "ip",
+		"firstName": "Iggy",
+		"lastName": "Pop",
+		"email": "ip@gmail.com",
+		"hash": "$2b$10$/XySXjxlxyaf/1Qd8oaIhu1hbhwgIUYX8/c/DFcYwjP1.Fypui/Du",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T13:40:32.094Z",
+		"updatedAt": "2021-12-07T13:40:47.310Z"
+	},
+	{
+		"_id": "ObjectId(\"61af62fa190acbe409430746\")",
+		"login": "nu",
+		"firstName": "Nancy",
+		"lastName": "Ungado",
+		"email": "nu@gmail.com",
+		"hash": "$2b$10$sJmu99rbQHh4BsEdjwQuQ.gdbQHs4f8Mb8HJ6HHVueSBnHI7.7TXq",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T13:34:50.857Z",
+		"updatedAt": "2021-12-07T13:39:02.897Z"
+	},
+	{
+		"_id": "ObjectId(\"61af61cfbeca494c9b62119c\")",
+		"login": "test",
+		"firstName": "Test",
+		"lastName": "Test",
+		"email": "test@sdkfj.com",
+		"hash": "$2b$10$.f4NuBmz0RVT2GJgO4bR6OsVGeYqFlqbUmYhOwTNNHk/W0eCPAn8K",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T13:29:51.141Z",
+		"updatedAt": "2021-12-07T13:33:55.214Z"
+	},
+	{
+		"_id": "ObjectId(\"61af1780c96ea1e4641b07c5\")",
+		"login": "gr",
+		"firstName": "Gregor",
+		"lastName": "Rapley",
+		"email": "gr@gmail.com",
+		"hash": "$2b$10$awrqt/HgEfprx26Fm8zwGuhYISo8mGXIRpT1w0GSYPycMj3jQBZvG",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T08:12:48.360Z",
+		"updatedAt": "2021-12-07T08:13:38.089Z"
+	},
+	{
+		"_id": "ObjectId(\"61af13adc96ea1e4641b07b5\")",
+		"login": "kl",
+		"firstName": "Kristen",
+		"lastName": "Lackcray",
+		"email": "kl@gmail.com",
+		"hash": "$2b$10$QVCqmT2vPShwiugP4.lHIO.rOlCT4GP/Bq4X2A.bcFPjRSkuQ317e",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T07:56:29.142Z",
+		"updatedAt": "2021-12-07T07:56:36.279Z"
+	},
+	{
+		"_id": "ObjectId(\"61af0d20c96ea1e4641b07aa\")",
+		"login": "ui",
+		"firstName": "Ulanda",
+		"lastName": "Itery",
+		"email": "ul@gmail.com",
+		"hash": "$2b$10$w3v6pOjQAOkP6hd9JeRwV.SH8k1JSJB.ucF2le29supKMBRmhqDIe",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T07:28:32.261Z",
+		"updatedAt": "2021-12-07T07:29:30.625Z"
+	},
+	{
+		"_id": "ObjectId(\"61af0594c4022e756f5ef9ac\")",
+		"login": "bb",
+		"firstName": "Bruce",
+		"lastName": "Babley",
+		"email": "bb@gmail.com",
+		"hash": "$2b$10$ECdvh0Qm.w0QyhESMbDaoOoL0t5XZzjRMC8sSzQUjkctxfQU43a1m",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T06:56:20.662Z",
+		"updatedAt": "2021-12-07T13:39:50.611Z"
+	},
+	{
+		"_id": "ObjectId(\"61af0534c4022e756f5ef9a4\")",
+		"login": "gh",
+		"firstName": "Gregor",
+		"lastName": "Hansel",
+		"email": "gh@gmail.com",
+		"hash": "$2b$10$E/se.rIeJHN6YGOggNqMdeM.pNJMWnz3Cj3STIjKtF7gHAou8KUca",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T06:54:44.728Z",
+		"updatedAt": "2021-12-07T13:39:04.004Z"
+	},
+	{
+		"_id": "ObjectId(\"61aefaa028051d65ec857660\")",
+		"login": "kc",
+		"firstName": "Kyle",
+		"lastName": "ContentEditorton",
+		"email": "kc@gmail.com",
+		"hash": "$2b$10$zz.nkXvEAz.EkVZ/vTNB6.4CRqzlLdmWvG5FoPdUn2qEmSBr5yg8y",
+		"accessGroups": "loggedInUsers, members, contentEditors",
+		"createdAt": "2021-12-07T06:09:36.409Z",
+		"updatedAt": "2021-12-07T06:09:36.409Z"
+	},
+	{
+		"_id": "ObjectId(\"61aefa1c28051d65ec85765b\")",
+		"login": "ma",
+		"firstName": "Mindy",
+		"lastName": "Administraton",
+		"email": "mm@gmail.com",
+		"hash": "$2b$10$nL9MhLmSgAiI6cnOOnQaSOeXZqYkxeJW7O/qc4kmZ8f.vzSq3rOD2",
+		"accessGroups": "loggedInUsers, members, admins",
+		"createdAt": "2021-12-07T06:07:24.181Z",
+		"updatedAt": "2021-12-07T06:07:24.181Z"
+	},
+	{
+		"_id": "ObjectId(\"61aef8b728051d65ec857654\")",
+		"login": "jm",
+		"firstName": "Jimmy",
+		"lastName": "Matedor",
+		"email": "jm@gmail.com",
+		"hash": "$2b$10$30GV4ivmQYCEh/3Z2yFUxOkXffnPEvXo7BOzSeh7HRTYul4oE8SWC",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T06:01:27.395Z",
+		"updatedAt": "2021-12-07T07:24:56.209Z"
+	},
+	{
+		"_id": "ObjectId(\"61aef5c428051d65ec85764d\")",
+		"login": "bw",
+		"firstName": "Bruce",
+		"lastName": "Wilson",
+		"email": "bw@skdjf.com",
+		"hash": "$2b$10$D.yFcYFsXdc5pg8pZCBRnuzEY1Ws8XGHiBuan8IIZ6dN8F.SdD1Mi",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T05:48:52.753Z",
+		"updatedAt": "2021-12-07T07:29:11.360Z"
+	},
+	{
+		"_id": "ObjectId(\"61aef48828051d65ec857646\")",
+		"login": "jk",
+		"firstName": "Jack",
+		"lastName": "Kahn",
+		"email": "jk@gamil.com",
+		"hash": "$2b$10$5mitumS3pkY1TDE4nl3bFup6J/8YeiF.iX5hFeR/b7ZMNCvxYeYge",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T05:43:36.579Z",
+		"updatedAt": "2021-12-07T07:24:56.207Z"
+	},
+	{
+		"_id": "ObjectId(\"61aeec6628051d65ec8575e9\")",
+		"login": "jj",
+		"firstName": "James",
+		"lastName": "JustSignedUpton",
+		"email": "jj@gmail.com",
+		"hash": "$2b$10$D3CnfE83KXtAX2Ez2K/7ven7ej6zagaA1ChknXCVkWrmsT5vpL2cS",
+		"accessGroups": "loggedInUsers,members",
+		"createdAt": "2021-12-07T05:08:54.746Z",
+		"updatedAt": "2021-12-07T07:24:56.207Z"
+	},
+	{
+		"_id": "ObjectId(\"61ae8bfab618e0add81ace55\")",
+		"login": "anonymousUser",
+		"firstName": "Anonymous",
+		"lastName": "User",
+		"email": "",
+		"hash": "",
+		"accessGroups": "loggedOutUsers"
+	}
+]
