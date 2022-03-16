@@ -1,5 +1,6 @@
 - x clean up and personalize
 	- x clean up CSS
 - x show JavaScript in JSX
-- .. copy JSON file to project
-- display JSON on page 
+- x copy JSON file to project
+- x display JSON on page 
+- .. publish to Netlify
