@@ -3,4 +3,18 @@
 - x show JavaScript in JSX
 - x copy JSON file to project
 - x display JSON on page 
-- .. publish to Netlify
+- x publish to Netlify
+
+- .. read API with fetch
+	- x get url
+	- x make useEffect
+	- x iife/async/fetch url
+	- .. create state variable employees
+
+	- load data from url on page load
+		- import useEffect 
+			- load data in useEffect
+			- async/await to load data
+			- save data in state variable (import useState)
+
+- images
